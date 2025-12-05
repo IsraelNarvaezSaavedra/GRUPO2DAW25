@@ -1,0 +1,13 @@
+- Clara (que va a asumir las tareas del integrante 2) ha creado la base de datos del proyecto con nombre "clarafp8_alimentos22025". 
+Yo, Alicia, voy a hacer las tareas del integrante 3 e Israel va a hacer las tareas del integrante 1.
+- Israel ha creado el repositorio de GitHub correspondiente llamado "GRUPO2DAW25" y nos ha dado acceso a Clara y a mi.  
+- Clara crea el perfil de alwaysdata y la base de datos con la tabla.
+Mediante git clone en local sube el archivo Model.php y el de instalación como pdf, que era lo que le correspondía.
+Realiza conexión por ssh + comandos git con el hosting a través de GIT  CMD.
+Crea la carpeta para el proyecto y sube el repositorio GitHub al hosting. 
+Cambia la url del directorio raíz en alwaysdata para que al acceder al hosting salga directamente la web con el index.php que hay en la carpeta /web del proyecto.
+Sube el archivo instalación.pdf al repositorio usando git local.
+- Subo los archivos que me corresponden (index.php, Controller.php y Config.php) habiendo modificado previamente el de Config.php, a las carpetas a las que pertenecen
+- Israel ha hecho las valoraciones del resto de los integrantes acerca de la tarea y las ha recogido en el documento valoraciones.txt
+
+URL del hosting desplegado: clarafp8.alwaysdata.net 
